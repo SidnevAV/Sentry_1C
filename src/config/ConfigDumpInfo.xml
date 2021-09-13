@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
+	<ConfigVersions>
+		<Metadata name="CommonForm.НастройкиИнтеграцииSentry" id="d319d6f3-91b7-4c77-ae61-b591f09a9c2e" configVersion="1fe410c711193843a8e45f48c75092c600000000"/>
+		<Metadata name="CommonForm.НастройкиИнтеграцииSentry.Form" id="d319d6f3-91b7-4c77-ae61-b591f09a9c2e.0" configVersion="f19142e609a7924ebf3a9c7cdd15480a00000000"/>
+		<Metadata name="CommonModule.ИнтеграцияSentry" id="1255134c-0239-41d7-ae0e-abfeec62883a" configVersion="afe2451384cae14d9b775061d2c7ef1f00000000"/>
+		<Metadata name="CommonModule.ИнтеграцияSentry.Module" id="1255134c-0239-41d7-ae0e-abfeec62883a.0" configVersion="7dfa0c918458584da01f088464be85d900000000"/>
+		<Metadata name="Configuration.Sentry" id="adfcf43a-d70e-413c-a090-18982a6fdc8f" configVersion="8d259b12da7c1f4ebdb528fea2efa77300000000"/>
+		<Metadata name="Configuration.Sentry.HomePageWorkArea" id="76dad22d-b364-4636-aa47-6703c84e21fc.8" configVersion="f3b58464d3f0c348a5ef68e94eb48eee00000000"/>
+		<Metadata name="Constant.НастройкиИнтеграцииSentry" id="a153a880-7cee-40d9-bc21-95e4af3c104c" configVersion="dbf7cab3fba35447bcae4a588c1a4b2400000000"/>
+		<Metadata name="Language.English" id="b1a55aef-fb13-4cf4-a60a-cfe70c200f80" configVersion="95cabb4e9188694fb0cca9cd1e66b4f200000000"/>
+		<Metadata name="Role.ПолныеПрава" id="1a4c509b-8ad8-4e55-9a2b-db22bbb865a0" configVersion="be7d7a93c5bc9747aa51ba940acab1b700000000"/>
+		<Metadata name="Role.ПолныеПрава.Rights" id="1a4c509b-8ad8-4e55-9a2b-db22bbb865a0.0" configVersion="52b7a9d19addf74192b93b6f6475be7400000000"/>
+		<Metadata name="ScheduledJob.ИнтеграцияSentry" id="3101bce3-e973-46e7-b5e5-71e556eca640" configVersion="e2af23d5b93ce941b0f0898adb265c0500000000"/>
+		<Metadata name="ScheduledJob.ИнтеграцияSentry.Schedule" id="3101bce3-e973-46e7-b5e5-71e556eca640.0" configVersion="44b05df3008caa468d9543ac74f8311900000000"/>
+		<Metadata name="Subsystem.ИнтеграцияSentry" id="06df3a39-c852-4bdc-b437-77760da9c556" configVersion="b4f9fb7111f9d640ac1f7994bb43e39200000000"/>
+		<Metadata name="Subsystem.ИнтеграцияSentry.CommandInterface" id="06df3a39-c852-4bdc-b437-77760da9c556.1" configVersion="c3da576b3b556744b8e8dfa7603b1adc00000000"/>
+		<Metadata name="Subsystem.ИнтеграцияSentry.Help" id="06df3a39-c852-4bdc-b437-77760da9c556.0" configVersion="d8d6cd44a22c004382ace963bc8afd7e00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
